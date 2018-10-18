@@ -16,6 +16,6 @@ fresh and clean.
 This class is divided into seven short lessons. We'll go through them
 in order, and they do depend on each other, but only lightly.
 
-The class is completely self-contained, probably nothing I say out
-loud is not written down in the text, so you should be able to go
+The class is completely self-contained, anything important I will say
+out loud is written down in the text, so you should be able to go
 through the class again on your own, or share it with others later.
