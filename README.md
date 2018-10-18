@@ -13,8 +13,8 @@ order to work right, and from worrying about messing something up. If
 you know how they work, you can always destroy one and recreate it
 fresh and clean.
 
-This class is divided into six short lessons. We'll go through them in
-order, and they do depend on each other, but only lightly.
+This class is divided into seven short lessons. We'll go through them
+in order, and they do depend on each other, but only lightly.
 
 The class is completely self-contained, probably nothing I say out
 loud is not written down in the text, so you should be able to go
